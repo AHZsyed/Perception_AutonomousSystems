@@ -1,5 +1,12 @@
-train: /home/ahzsyed/Documents/GitHub/Perception_AutonomousSystems/data/YOLODataset/images/train
-val: /home/ahzsyed/Documents/GitHub/Perception_AutonomousSystems/data/YOLODataset/images/val
+# Dataset configuration file for YOLO
 
-nc: 3
-names: ['car', 'cycle', 'person']
+train: /zhome/e5/7/219270/Perception_AutonomousSystems/data/YOLODataset/train/images
+val:   /zhome/e5/7/219270/Perception_AutonomousSystems/data/YOLODataset/val/images
+
+nc: 3  # number of classes
+names: ['pedestrians', 'cycle', 'car']
+
+
+
+
+
