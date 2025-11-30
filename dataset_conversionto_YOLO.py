@@ -4,7 +4,7 @@ import random
 
 # Input folders
 input_root = "data/YOLODataset"
-classes = ["Cars", "Cycle", "Pedestrian"]  # Match folder names exactly
+classes = ["Car", "Cycle", "Pedestrians"]  # Match folder names exactly
 
 # Output YOLO folders
 output_root = "YOLO/dataset"
