@@ -1,28 +1,4 @@
-# Compatible with PASCAL Annotation Version 1.00
-Image filename : "PennFudanPed/PNGImages/FudanPed00044.png"
-Image size (X x Y x C) : 521 x 494 x 3
-Database : "The Penn-Fudan-Pedestrian Database"
-Objects with ground truth : 4 { "PASpersonWalking" "PASpersonWalking" "PASpersonWalking" "PASpersonWalking" }
-# Note there may be some objects not included in the ground truth list for they are severe-occluded
-# or have very small size.
-# Top left pixel co-ordinates : (1, 1)
-# Details for pedestrian 1 ("PASpersonWalking")
-Original label for object 1 "PASpersonWalking" : "PennFudanPed"
-Bounding box for object 1 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (246, 170) - (340, 462)
-Pixel mask for object 1 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00044_mask.png"
-
-# Details for pedestrian 2 ("PASpersonWalking")
-Original label for object 2 "PASpersonWalking" : "PennFudanPed"
-Bounding box for object 2 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (337, 175) - (426, 464)
-Pixel mask for object 2 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00044_mask.png"
-
-# Details for pedestrian 3 ("PASpersonWalking")
-Original label for object 3 "PASpersonWalking" : "PennFudanPed"
-Bounding box for object 3 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (37, 129) - (181, 492)
-Pixel mask for object 3 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00044_mask.png"
-
-# Details for pedestrian 4 ("PASpersonWalking")
-Original label for object 4 "PASpersonWalking" : "PennFudanPed"
-Bounding box for object 4 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (436, 157) - (501, 402)
-Pixel mask for object 4 "PASpersonWalking" : "PennFudanPed/PedMasks/FudanPed00044_mask.png"
-
+0 0.5623800383877159 0.6396761133603239 0.18042226487523993 0.5910931174089069
+0 0.7322456813819578 0.6467611336032388 0.1708253358925144 0.5850202429149798
+0 0.2092130518234165 0.6285425101214575 0.2763915547024952 0.7348178137651822
+0 0.8992322456813819 0.5657894736842105 0.12476007677543186 0.4959514170040486

@@ -1,6 +1,0 @@
-
-train: /home/ahzsyed/Documents/GitHub/Perception_AutonomousSystems/data/YOLODataset/images/train
-val: /home/ahzsyed/Documents/GitHub/Perception_AutonomousSystems/data/YOLODataset/images/val
-
-nc: 3
-names: ['car', 'cycle', 'person']
